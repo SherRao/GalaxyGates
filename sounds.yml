@@ -1,0 +1,31 @@
+commands:
+
+    not-a-player: "ANVIL_BREAK"
+        
+    invalid-usage: "ANVIL_BREAK"
+
+    invalid-gate: "ANVIL_BREAK"
+        
+    invalid-player: "ANVIL_BREAK"
+            
+    gate-sent: "PISTON_EXTEND"
+    
+    gate-received: "PISTON_EXTEND"
+    
+    reload-success: "ANVIL_USE"
+    
+    reload-failure: "ANVIL_BREAK"
+   
+gui:
+
+    gate-redeemed: "ANVIL_USE"
+    
+    gate-not-in-inventory: "ANVIL_BREAK"
+         
+arenas:
+
+    no-arena-available: "BAT_DEATH"
+
+    win: "ENDERDRAGON_DEATH"
+    
+    loss: "WITHER_BREAK_BLOCK"

@@ -1,0 +1,27 @@
+# Time time (in milliseconds), that the leaderboard should be updated between /gg top command executes
+update-rate: 250
+
+open-sound: "ANVIL_USE"
+
+display:
+
+    entry: "&6[[position]] [display-name] &8>> &7[wins]"
+    
+    normal-menu: 
+        - "&6======== &cLeaderboards | Most [gate] Wins &6========" 
+        - ""
+        - "[entries]"
+        - ""
+        - "&6=========================" 
+
+    total-menu: 
+        - "&6======== &cLeaderboards | Most Wins &6========" 
+        - ""
+        - "&6Use '/gg top <gate>' to see the leaderboard for"
+        - "&6a certain gate!"
+        - ""
+        - "[entries]"
+        - ""
+        - "&6=========================" 
+        
+    entries-per-page: 10        

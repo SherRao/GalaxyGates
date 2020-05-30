@@ -1,0 +1,14 @@
+name: GalaxyGates
+version: 1.8.2_MC-1.8.8
+description: GalaxyGates
+author: SherRao
+
+main: tk.sherrao.bukkit.galaxygates.GalaxyGates
+prefix: GalaxyGates
+database: false
+depend: [WorldEdit, WorldGuard]
+
+commands:
+    galaxygates:
+        description: "gg reloadmaps, gg give <player> <gate>"
+        aliases: [ gg, galaxy, gates ] 

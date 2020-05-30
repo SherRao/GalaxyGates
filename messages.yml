@@ -1,0 +1,38 @@
+commands:
+
+    not-a-player: "&cSorry! You have to be a player to perform that command!"
+        
+    invalid-usage: "&cWrong! Usage: &6&o'/[cmd] give <player> <gate>'"
+
+    invalid-gate: "&6&o[input] &cisn't a valid gate!"
+        
+    invalid-player: "&6&o[input] &cisn't a valid player!"
+            
+    gate-sent: "&aYou have successfully sent &6&o[player] &athe &6&o [gate] &agate piece!"
+    
+    gate-received: "&aYou have received the &6&o[gate] &agate piece!"
+    
+    reload-success: "&aYou have successfully reloaded all arena maps!"
+    
+    reload-failure: "&cError occured while reloading maps, check the console..."
+    
+
+gui:
+
+    gate-redeemed: "&aYou have successfully redeemed &6&o[gate] &agate piece(s)!"
+    
+    gate-not-in-inventory: "&cYou don't have any available &6&o[gate] &cgate piece(s)!"
+    
+arenas:
+
+    inventory-not-empty: "&cYou can't start a gate until you're inventory is empty!"
+    
+    no-arena-available: "&cThere is not an arena available at the moment! Try again later!"
+    
+    teleporting-to-arena: "&aYou are being teleported to the &6&o[gate] gate arena..."
+
+    win: "&aYou are a winner!"
+    
+    loss: "&cYou are a faggot!"
+    
+    

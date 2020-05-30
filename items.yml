@@ -1,0 +1,56 @@
+gates:
+
+    alpha:
+        item: "APPLE"
+        title: "&4&lAlpha Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oAlpha Gate!"
+
+    beta:
+        item: "BOWL"
+        title: "&4&lBeta Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oBeta Gate!"
+            
+    gamma:
+        item: "GOLD_SWORD"
+        title: "&4&lGamma Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oGamma Gate!"
+            
+    delta:
+        item: "POTION"
+        title: "&4&lDelta Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oDelta Gate!"
+            
+    hades:
+        item: "ARROW"
+        title: "&4&lHades Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oHades Gate!"
+            
+    lambda:
+        item: "BOW"
+        title: "&4&lLambda Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oLambda Gate!"
+            
+    kappa:
+        item: "IRON_SWORD"
+        title: "&4&lKappa Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oKappa Gate!"
+            
+    zeta:
+        item: "SNOW_BALL"
+        title: "&4&lZeta Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oZeta Gate!"
+            
+    kronos:
+        item: "IRON_INGOT"
+        title: "&4&lKronos Gate Building Material"
+        lore: 
+            - "&c&oUse this to rebuild the &4&l&oZeta Gate!"
+            

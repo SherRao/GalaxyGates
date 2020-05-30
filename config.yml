@@ -1,0 +1,46 @@
+#################################
+#                               #
+#   GalaxyGates - Config File   #
+#                               #
+#     Developed by SherRao      #
+#                               #  
+#################################
+#
+#
+# <--- Anything with this before it means it is a comment, it can be changed to your liking
+# You can even add your own comments!
+#
+#
+# [String/Color Codes]
+# Color codes (the '&' symbol) can be used for formatting in strings
+# You can find a list of all color codes here: http://wiki.ess3.net/mc/
+# 
+#
+# [Sound ID's] 
+# Sound ID's can be used where necessary 
+# You can find Sound ID's for each Minecraft version here:
+#
+# (1.7/1.8) https://jd.bukkit.org/org/bukkit/Sound.html 
+# (1.9) https://web.archive.org/web/20150919025029/https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+# (Latest) https://hub.spigotmc.org/javadocs/spigot#
+#
+#
+# [Block/Item ID's]
+# Sound/Block ID's can be used where necessary
+# You can find Block/Sound ID's for each item/block here: https://jd.bukkit.org/org/bukkit/Material.html
+#
+
+# Should the plugin be enabled?
+#  Acceptable = [true|false]
+enabled: true
+
+# Should the plugin log all messages or just error messages to the console?
+#  Acceptable = [true|false]
+verbose: true
+
+########################################################################################################
+# Use arenas.yml to customize arena waves (Placeholders: "<player>", <playerspawn>", "<mobspawn>"      #
+# Use gui.yml to customize the GUI                                                                     #
+# Use items.yml to customize the Gate Items                                                            #
+# Use messages.yml and sounds.yml to configure the good old messages (Placeholders: "[input]", "[cmd]" #
+########################################################################################################

@@ -1,0 +1,164 @@
+title: "&c&lGalaxyGates"
+open-sound: "ANVIL_USE"
+rows: 3
+
+gates:
+
+    alpha:
+        slot: 0
+        full-progression:
+            item: "APPLE"
+            title: "&aAlpha Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "APPLE"
+            title: "&aAlpha Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"
+        
+        
+        
+    beta:
+        slot: 4
+        full-progression:
+            item: "RAW_BEEF"
+            title: "&aBeta Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "COOKED_BEEF"
+            title: "&aBeta Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"
+        
+        
+        
+    gamma:
+        slot: 8
+        full-progression:
+            item: "OBSIDIAN"
+            title: "&aGamma Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "GLOWSTONE"
+            title: "&aGamma Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"    
+                
+                
+                
+    delta:
+        slot: 11
+        full-progression:
+            item: "ACACIA_FENCE"
+            title: "&aDelta Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "ACACIA_DOOR_ITEM"
+            title: "&aDelta Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"   
+                
+                
+                
+    hades:
+        slot: 15
+        full-progression:
+            item: "ARMOR_STAND"
+            title: "&aHades Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "BANNER"
+            title: "&aHades Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"   
+                
+                
+                
+    lambda:
+        slot: 18
+        full-progression:
+            item: "LOG"
+            title: "&aLambda Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "WOOD"
+            title: "&aLambda Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"      
+            
+    
+    
+    kappa:
+        slot: 22
+        full-progression:
+            item: "ACTIVATOR_RAIL"
+            title: "&aKappa Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "POWERED_RAIL"
+            title: "&aKappa Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"    
+                
+
+                
+    zeta:
+        slot: 23
+        full-progression:
+            item: "BOW"
+            title: "&aZeta Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "ARROW"
+            title: "&aZeta Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"    
+            
+                
+    kronos:
+        slot: 26
+        full-progression:
+            item: "IRON_PICKAXE"
+            title: "&aKronos Gate"
+            lore:
+                - "&b&oAll parts collected"
+                - "&b&oClick to teleport to the gate!"
+
+        progressing:
+            item: "IRON_INGOT"
+            title: "&aKronos Gate"
+            lore:
+                - "&6&o[progression]/9 parts collected"
+                - "&6&oClick to redeem parts!"   
